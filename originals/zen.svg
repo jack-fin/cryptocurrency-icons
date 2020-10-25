@@ -1,7 +1,7 @@
 <?xml version="1.0" encoding="UTF-8"?>
 <svg width="40px" height="40px" viewBox="0 0 40 40" version="1.1" xmlns="http://www.w3.org/2000/svg" xmlns:xlink="http://www.w3.org/1999/xlink">
     <title>zen</title>
-    <g id="zen" stroke="none" stroke-width="1" fill="none" fill-rule="evenodd">
+    <g id="zen" stroke="none" stroke-width="1" fill="none" >
         <rect fill="#000000" x="0" y="0" width="40" height="40"></rect>
         <g id="Horizen_logomark" fill="#FFFFFF" fill-rule="nonzero">
             <path d="M36,8.30534351 L36,8.30534351 L32.7633588,13.3435115 C33.7709924,15.2977099 34.3206107,17.5267176 34.3206107,19.8778626 C34.3206107,27.8778626 27.8473282,34.3206107 19.8778626,34.3206107 C17.5267176,34.3206107 15.3282443,33.7709924 13.3740458,32.7633588 L8.30534351,36.0305344 C11.5725191,38.351145 15.5419847,39.7557252 19.8473282,39.7557252 C30.8091603,39.7557252 39.7251908,30.870229 39.7251908,19.8778626 C39.7251908,15.5419847 38.351145,11.5725191 36,8.30534351 Z" id="Path"></path>

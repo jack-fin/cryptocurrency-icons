@@ -1,7 +1,7 @@
 <?xml version="1.0" encoding="UTF-8"?>
 <svg width="50px" height="50px" viewBox="0 0 50 50" version="1.1" xmlns="http://www.w3.org/2000/svg" xmlns:xlink="http://www.w3.org/1999/xlink">
     <title>yfi</title>
-    <g id="yfi" stroke="none" stroke-width="1" fill="none" fill-rule="evenodd">
+    <g id="yfi" stroke="none" stroke-width="1" fill="none" >
         <g id="yearn-finance-yfi-logo">
             <path d="M25,0 C38.805,0 50,11.195 50,25 C50,38.805 38.805,50 25,50 C11.195,50 0,38.805 0,25 C0,11.195 11.195,0 25,0 Z" id="SVGID" fill="#006AE3"></path>
             <g id="Group" transform="translate(14.550000, 8.545488)" fill="#FFFFFF" fill-rule="nonzero">
